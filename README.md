@@ -2,14 +2,10 @@
 
 A Retrieval-Augmented Generation (RAG) chatbot built with Flask and Mistral AI.
 
-**Created by [Halim Madi](https://www.halimmadi.com)**
+**Created by Michael Bushnell
 
 This is a sample project designed for students, workshops, and educational purposes. Feel free to use, modify, and distribute this code as you wish for learning and development.
 
-## About the Creator
-
-- **Website**: [www.halimmadi.com](https://www.halimmadi.com)
-- **Instagram**: [@yalla_halim](https://www.instagram.com/yalla_halim/)
 
 ## Setup
 
